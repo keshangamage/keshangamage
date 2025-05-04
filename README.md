@@ -9,12 +9,12 @@ I'm a **Full Stack Web Developer** with a passion for creating dynamic, user-cen
 
 ## 📈 GitHub Stats
 
-![Keshan's GitHub Stats][(https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/keshangamage)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Keshan's GitHub Stats](https://github.com/keshangamage)
+![Top Languages](https://github.com/keshangamage)
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github.com/keshangamage)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/keshan-dev/) *(add your profile link)*
