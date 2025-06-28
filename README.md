@@ -7,13 +7,13 @@ I'm a **Full Stack Developer** passionate about crafting dynamic, user-centric a
 ## 🛠️ Tech Stack
 
 💻 **Frontend**  
-HTML • CSS • JavaScript • Tailwind CSS • React
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Vue.js • Tailwind CSS • Bootstrap • jQuery • Flutter • React Native
 
 🧠 **Backend**  
-Node.js • Express.js • MongoDB
+Node.js • Express.js • Python • SQL • PostgreSQL • MongoDB
 
 🧰 **Tools & Platforms**  
-Git & GitHub • VS Code • Netlify • Vercel
+Git • GitHub • VS Code • Figma • Docker • Netlify • Vercel
 
 ---
 
