@@ -15,14 +15,7 @@ Node.js • Express.js • Python • SQL • PostgreSQL • MongoDB
 🧰 **Tools & Platforms**  
 Git • GitHub • VS Code • Figma • Docker • Netlify • Vercel
 
----
 
-## 📊 GitHub Stats
-
-![Keshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshangamage&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshangamage&layout=compact&theme=radical)
-
----
 
 ## 🔥 GitHub Streak
 
