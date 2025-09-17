@@ -17,10 +17,6 @@ Git • GitHub • VS Code • Figma • Docker • Netlify • Vercel
 
 
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=keshangamage&theme=radical)](https://git.io/streak-stats)
-
 ---
 
 ## 📬 Connect with Me
