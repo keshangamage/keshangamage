@@ -25,6 +25,3 @@ Git • GitHub • VS Code • Figma • Docker • Netlify • Vercel
 - 💼 [LinkedIn](https://www.linkedin.com/in/keshan-dev/)
 - 📧 [keshan.gimhana.gamage@gmail.com](mailto:keshan.gimhana.gamage@gmail.com)
 
----
-
-_Thanks for stopping by! If you like what you see, feel free to ⭐️ this profile._
