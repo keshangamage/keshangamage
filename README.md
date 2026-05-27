@@ -6,14 +6,11 @@ Full Stack Developer specializing in building scalable, efficient, and user-focu
 
 ## Tech Stack
 
-### Frontend
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Vue.js • Tailwind CSS • Bootstrap • jQuery • Flutter • React Native
+**Frontend:** React.js, Next.js, Vue.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap, HTML, CSS, Flutter, React Native  
 
-### Backend
-Node.js • Express.js • Python • SQL • PostgreSQL • MongoDB
+**Backend:** Node.js, Express.js, Python, SQL, PostgreSQL, MongoDB  
 
-### Tools & Platforms
-Git • GitHub • Docker • VS Code • Figma • Netlify • Vercel
+**Tools:** Git, GitHub, Docker, VS Code, Figma, Netlify, Vercel  
 
 ---
 
