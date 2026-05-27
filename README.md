@@ -4,24 +4,24 @@ I'm a **Full Stack Developer** passionate about crafting dynamic, user-centric a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-💻 **Frontend**  
+**Frontend** 
 HTML • CSS • JavaScript • TypeScript • React • Next.js • Vue.js • Tailwind CSS • Bootstrap • jQuery • Flutter • React Native
 
-🧠 **Backend**  
+**Backend**  
 Node.js • Express.js • Python • SQL • PostgreSQL • MongoDB
 
-🧰 **Tools & Platforms**  
+**Tools & Platforms**  
 Git • GitHub • VS Code • Figma • Docker • Netlify • Vercel
 
 
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
-- 🌐 [Portfolio](https://keshangamage.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/keshan-dev/)
-- 📧 [keshan.gimhana.gamage@gmail.com](mailto:keshan.gimhana.gamage@gmail.com)
+- [Portfolio](https://keshangamage.com)
+- [LinkedIn](https://www.linkedin.com/in/keshan-dev/)
+- [keshan.gimhana.gamage@gmail.com](mailto:keshan.gimhana.gamage@gmail.com)
 
