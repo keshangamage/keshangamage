@@ -1,23 +1,19 @@
-# 👋 Hi, I'm Keshan
+# 👋 hi, i'm keshan
 
-Full Stack Developer specializing in building scalable, efficient, and user-focused applications. I work across both frontend and backend systems, with a strong focus on writing clean code, designing reliable architectures, and delivering smooth digital experiences. I enjoy solving complex problems and continuously improving my technical skills to build better software solutions.
-
----
+Full stack software engineer building modern applications with Next.js, TypeScript, React, and Node.js.
+I enjoy turning ideas into practical software, with a focus on clean interfaces, reliable systems, and well-structured code.
 
 ## Tech Stack
 
-**Frontend:** React.js, Next.js, Vue.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap, HTML, CSS, Flutter, React Native  
+**Frontend:** React.js, Next.js, JavaScript, TypeScript, Vue.js, React Native, Flutter, Tailwind CSS, Bootstrap, HTML, CSS
 
-**Backend:** Node.js, Express.js, Python, SQL, PostgreSQL, MongoDB  
+**Backend:** Node.js, Express.js, Python, PostgreSQL, MongoDB, SQL  
 
-**Tools:** Git, GitHub, Docker, VS Code, Figma, Netlify, Vercel  
-
----
+**Tools:** Git, GitHub, Docker, Figma, Netlify, Vercel  
 
 ## Connect with me
 
-[Portfolio](https://keshangamage.com) • 
-[LinkedIn](https://www.linkedin.com/in/keshan-dev/) • 
-[GitHub](https://github.com/keshangamage) • 
-[X](https://x.com/keshan_07) • 
-[Email](mailto:keshan.gimhana.gamage@gmail.com)
+[portfolio](https://keshangamage.com) • 
+[linkedIn](https://www.linkedin.com/in/keshan-dev/) • 
+[x](https://x.com/keshan_07) • 
+[email](mailto:keshandg@gmail.com)
